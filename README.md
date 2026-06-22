@@ -1,2 +1,44 @@
 # -major-vote-cn-selector
 Chinese College Major Selector - 757 majors voting tool
+
+# 中文专业选择投票工具 (Chinese Major Voting Tool)
+
+A free interactive tool to compare and vote on 757 Chinese college majors.
+
+**[🔗 Try it live →](https://ordinarymantrying.com/tools/major-vote-cn.html)**
+
+## What it does
+
+- Compare all 757 Chinese undergraduate majors
+- Vote on majors to see community preferences
+- Real-time voting results powered by Firebase
+- Mobile-friendly, no login required
+
+## The story behind it
+
+A teenager asked me which major to pick. Instead of guessing, I built this.
+
+📖 [Read the full story](https://ordinarymantrying.com/which-college-major-ai-refused-answer-voting-tool/)
+
+## How to use locally
+
+```bash
+git clone https://github.com/daligao/major-vote-cn-selector.git
+open major-vote-cn.html
+
+Tech stack
+
+- Vanilla HTML + JavaScript
+- Firebase Realtime Database
+- Responsive CSS
+
+Author
+
+Tim — https://ordinarymantrying.com
+
+An ordinary Chinese guy documenting AI experiments, side hustles, and value investing.
+
+License
+
+MIT
+
