@@ -32,13 +32,20 @@ Tech stack
 - Firebase Realtime Database
 - Responsive CSS
 
-Author
+## Author
 
-Tim — https://ordinarymantrying.com
+Tim — [ordinarymantrying.com](https://ordinarymantrying.com)
 
 An ordinary Chinese guy documenting AI experiments, side hustles, and value investing.
 
-License
+## More Free China Tools
+
+- [Mandarin Flashcards](https://ordinarymantrying.com/tools/mandarin-flashcards.html) — HSK1–3 vocabulary with spaced repetition
+- [Chinese Writing Toolkit](https://ordinarymantrying.com/tools/chinese-writing-toolkit.html) — 11 types of applied Chinese writing
+- [2026 Gaokao English Exam](https://ordinarymantrying.com/tools/gaokao-2026-english-exam.html) — Real exam paper sat by 12.6 million students
+- [All free tools →](https://ordinarymantrying.com/tools/)
+
+## License
 
 MIT
 
